@@ -44,8 +44,8 @@ Gift card and Follow us:
 This project is licensed under the MIT License. See the LICENSE file for details
 
 ## ✨ Author
-👤 [Srishanth Reddy Narra]<br>
-📧 Email: srishanthreddy456@gmail.com<br>
-🔗 Mobile no: +91-8328214109<br>
-📌 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/srishanth-reddy-narra-61a1142a0/)
+👤 [Suraj Kumar Singh]<br>
+📧 Email: ssuraj4156@gmail.com<br>
+🔗 Mobile no: +91-9199446515<br>
+📌 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/suraj-singh-0b7676360/)
 
